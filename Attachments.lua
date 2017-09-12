@@ -126,11 +126,11 @@ table.list_append(self.wpn_fps_ass_contraband.uses_parts, {
 
 --BOOSTS--
 
-self.parts.wpn_fps_upg_bonus_concealment_p1.stats 	 = {value = 0, concealment = 1}
-self.parts.wpn_fps_upg_bonus_recoil_p1.stats 		 = {value = 0, recoil = 1}
-self.parts.wpn_fps_upg_bonus_damage_p1.stats 		 = {value = 0, damage = 1}
-self.parts.wpn_fps_upg_bonus_spread_p1.stats  		 = {value = 0, spread = -1}
-self.parts.wpn_fps_upg_bonus_team_exp_money_p3.stats = {value = 0}
+--self.parts.wpn_fps_upg_bonus_concealment_p1.stats 	 = {value = 0, concealment = 1}
+----self.parts.wpn_fps_upg_bonus_recoil_p1.stats 		 = {value = 0, recoil = 1}
+--self.parts.wpn_fps_upg_bonus_damage_p1.stats 		 = {value = 0, damage = 1}
+--self.parts.wpn_fps_upg_bonus_spread_p1.stats  		 = {value = 0, spread = -1}
+--self.parts.wpn_fps_upg_bonus_team_exp_money_p3.stats = {value = 0}
 
 --AMMO--
 
