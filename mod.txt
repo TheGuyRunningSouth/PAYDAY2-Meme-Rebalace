@@ -1,0 +1,18 @@
+{
+    "name" : "Thot Rebalance",
+    "description" : "ayy lmao",
+    "author" : "eggy cummies",
+    "contact" : "no you",
+    "version" : "2",
+
+"updates" : [
+    {
+        "revision" : 1,
+        "identifier" : "MemeBalance",
+    }
+]
+	"hooks": [
+		{"hook_id" : "lib/tweak_data/weaponfactorytweakdata","script_path" : "Attachments.lua"},
+		{"hook_id" : "lib/tweak_data/weapontweakdata","script_path" : "Rebalance_weapons.lua"}
+		]
+}
