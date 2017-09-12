@@ -1,7 +1,7 @@
 {
-    "name" : "Thot Rebalance",
+    "name" : "Meme Rebalance",
     "description" : "ayy lmao",
-    "author" : "eggy cummies",
+    "author" : "eggy cummies & The Guy Running South",
     "contact" : "no you",
     "version" : "2",
 
